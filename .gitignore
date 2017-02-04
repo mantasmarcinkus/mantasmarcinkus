@@ -1,0 +1,5 @@
+.deploy_git
+.vscode
+node_modules
+public
+scaffolds
