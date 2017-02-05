@@ -1,0 +1,31 @@
+.sidebar.animated.fadeInDown
+  .logo-title
+    .title
+      img(src= url_for('images/logo@2x.png'),style="width:127px;")
+      h3(title="")
+        a(href="/")= config.title
+      if theme.description
+        .description
+          p= theme.description
+        .description-detail
+          p= theme.aboutme
+          p= theme.goals
+
+  ul.social-links
+    li
+      a(href="https://www.linkedin.com/in/mantas-marcinkus")
+        i.fa.fa-linkedin
+    li
+      a(href="mailto:mantas@marcinkus.eu")
+        i.fa.fa-envelope
+    if theme.rss
+      li
+        a(href= url_for(theme.rss))
+          i.fa.fa-rss
+    li
+      a(href="http://marcinkus.eu/")
+        i.fa.fa-user
+    li
+      a(href="https://github.com/mantasmarcinkus")
+        i.fa.fa-github
+  include footer
