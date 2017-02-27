@@ -48,7 +48,7 @@ Kadangi jau buvau paragaves team lead'o duonos (nors ji buvo tokia stale
 ir as ja pats gaminau pirma karta paemes recepta i rankas), tai naturalu
 kad noreciau ateityje buti team lead'u. Bet kokiu? O gal net ne juo?
 Paziurejus dabartinius darbo skelbimus ir pozicijos mano dabartiniame 
-darbe - galima matyti net 5 skirtingas perspektyvas programuotojui:
+profesijoje - galima matyti net 5 skirtingas perspektyvas programuotojui:
  - Senior developer/engineer
  - Tech lead
  - Team lead
@@ -56,7 +56,7 @@ darbe - galima matyti net 5 skirtingas perspektyvas programuotojui:
  - Architect  
 
 Visos aisku yra kazkuom susijusios, bet ir turi savu skirtumu darbo 
-specifikoje. Dar prie sio saraso visu galu meistra - Freelancer. Nes 
+specifikoje (akivaizdu). Dar prie sio saraso visu galu meistras - Freelancer. Nes 
 kodel gi ne? As galeciau ir tokiu buti - ir dirbti kur nors Bahamuose
 (jei ten internetas yra) (cough cough, I'll leave it here for research
 purposes).
@@ -65,8 +65,8 @@ Problema, kuria matau aiskinantis ko as noriu - kad sios pozicijos turi
 skirtingas tobulejimo sakas, zinoma, jos visos susijusios, bet tuo pat
 ir skirtingos. Tie skirtumai isryskeja dar labiau, kai viena pozicija
 yra vadinama vienaip, nors is tikro realioje imoneje, gali tureti visu
-poziciju atsakomybiu ir pavadinta kitu pavadinimu. Bet cia kaip kintamojo
-pavadinimas programuojant - pagal nuomone ir skirsis visur pasaulyje.
+poziciju atsakomybiu ir pavadinta kitu pavadinimu. Bet cia taip pat kaip 
+ir kitose profesijose - darai ta pati, o vadinies visai kitaip.
 ### 
 Mano tikslas, zinoma, atsakyti i klausima - 'Kaip as matau save po
 penkeriu metu?'. O tai padaryti galiu tik sesti ir aiskintis, kiekvienos

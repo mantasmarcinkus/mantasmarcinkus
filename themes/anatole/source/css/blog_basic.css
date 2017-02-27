@@ -485,3 +485,7 @@ dl dt {
     #fb_comments .c_content, #fb_comments .comment_body {
       margin-left: 57px;   }
 }
+
+img {
+	 max-width: 600px;
+}
