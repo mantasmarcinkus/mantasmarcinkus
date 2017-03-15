@@ -1,14 +1,16 @@
----
+layout: post
 title: Looking for a job in London
 tags:
-- 'search'
-- 'work'
-- 'interview'
-- 'whiteboard'
-- 'process'
-- 'london'
-- 'recruiters'
+  - search
+  - work
+  - interview
+  - whiteboard
+  - process
+  - london
+  - recruiters
+date: 2017-03-15 14:04:39
 ---
+
 ![Looking](/content/images/2017/3/spyglass.jpg)
 
 > *Disclaimer: This piece of text went to be much longer than I expected before writing. Still, I think it has some useful information in the overall process of looking for a job and how does interview process looked when I was looking for it.*
