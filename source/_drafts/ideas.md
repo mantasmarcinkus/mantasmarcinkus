@@ -9,4 +9,4 @@ tags:
 - How do I see interviews should happen?
 - My experience in interviews
 - TOP things I read this month
-
+- Thoughts on StackOverflow https://stackoverflow.com/insights/survey/2017
